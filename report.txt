@@ -1,0 +1,3 @@
+Cloud Cost Optimization Report
+===============================
+- ⚠️ EC2: Cost is too high relative to usage — optimize or downgrade.
